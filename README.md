@@ -4,14 +4,14 @@ Website for people to search and filter blog posts, leave comments and bookmark 
 ## Home
 <img src="./resources/1 Home.PNG">  
 
-##  Blogs
+## Blogs
 <img src="./resources/2 Blogs.PNG">  
 <img src="./resources/3 Blog.PNG">  
 
-## Category
+## Categories
 <img src="./resources/6 Category.PNG">  
 
-## All Posts
+## Posts
 <img src="./resources/7 All Posts.PNG">  
 
 ## Login
