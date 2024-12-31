@@ -1,5 +1,5 @@
 # Cubed
-Website for people to search and filter blog posts, leave comments and bookmark them
+Website for people to search and filter blog posts, leave comments and bookmark them etc.
 
 ## Home
 <img src="./resources/1 Home.PNG">  
