@@ -1,6 +1,5 @@
 # Cubed
-Website for people to search and filter blog posts, leave comments and bookmark them etc.
-
+A website where users can search, filter, and discover blog posts, leave comments, bookmark favorite articles, and engage with content.
 ## Home
 <img src="./resources/1 Home.PNG">  
 
